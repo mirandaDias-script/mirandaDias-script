@@ -5,19 +5,20 @@
 - 🧐 Aberto a novas oportunidades em busca de conhecimento e experiências
 - 📌 Brazil, Pernambuco
 
-<div style="display: inline_block">
- <h2> Skills 💻 </h2>
- <div style="display: grid; grid-template-columns: repeat(4, 3fr)">
-    <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-    <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+<div style="display: inline-block">
+  <h2>Skills 💻</h2>
+  <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <img style="justify-self: center;" alt="javascript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img style="justify-self: center;" alt="html5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img style="justify-self: center;" alt="css3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img style="justify-self: center;" alt="python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img style="justify-self: center;" alt="express" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+    <img style="justify-self: center;" alt="react" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img style="justify-self: center;" alt="bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+    <img style="justify-self: center;" alt="nodejs" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img style="justify-self: center;" alt="mysql" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img style="justify-self: center;" alt="canva" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+  </div>
 </div>
 
 <div style="display: inline_block">
