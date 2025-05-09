@@ -7,7 +7,7 @@
 
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
- <div style="grid-template-columns: repeat(4, 3fr)">
+ <div style="display: grid; grid-template-columns: repeat(4, 3fr)">
     <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
