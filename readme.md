@@ -1,7 +1,7 @@
 ## Caio Dias de Miranda 
 
 - 📚 Técnico em Informática
-- 👨🏻‍💻 Desenvolvedor React
+- 👨🏻‍💻 Desenvolvedor Front-End Junior
 - 🧐 Aberto a novas oportunidades em busca de conhecimento e experiências
 - 📌 Brazil, Pernambuco
 
