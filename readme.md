@@ -1,7 +1,8 @@
 ## Caio Dias de Miranda 
 
+- 📘​ Cursando C.C 
 - 📚 Técnico em Informática
-- 👨🏻‍💻 Desenvolvedor Front-End Junior
+- 👨🏻‍💻 Desenvolvedor Junior
 - 🧐 Aberto a novas oportunidades em busca de conhecimento e experiências
 - 📌 Brazil, Pernambuco
 
@@ -11,12 +12,10 @@
     <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-    <img align="center" alt="express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
     <img align="center" alt="npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
     <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"//>
     <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+    <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
 <div style="display: inline_block">
@@ -40,3 +39,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake.svg">
 </picture>
+
