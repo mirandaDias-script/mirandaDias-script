@@ -34,17 +34,17 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirandaDias-script&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diasDev09&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirandaDias-script&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diasDev09&theme=tokyonight" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mirandaDias-script&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diasDev09&theme=tokyonight" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=mirandaDias-script&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=diasDev09&theme=tokyonight" />
 
 </div>
 
@@ -73,6 +73,7 @@
     alt="github contribution grid snake animation" 
     src="https://raw.githubusercontent.com/diasDev09/diasDev09/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 
